@@ -19,3 +19,4 @@ def listSum(arr):
     
 arr = [1,2,3,4,5]
 print(listSum(arr))
+print(listSum(arr))
